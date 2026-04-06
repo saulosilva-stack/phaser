@@ -1,0 +1,10 @@
+Part 1 - Introduction ok
+Part 2 - Loading Assets ok
+  - Display an image ok
+Part 3 - World Building ok
+Part 4 - The Platforms ok
+Part 5 - Ready Player One ok
+Part 6 - body Velocity: A world of physics ok
+Part 7 - Controlling the player with the keyboard ok
+Part 8 - Stardust
+Part 9 - Bouncing Bombs
